@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Recetario</string>
+
+
+    <string name="anadir_imagen">Añadir imagen</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre">Nombre</string>
+    <string name="InstruccionesBien">Instrucciones</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="borrar">Borrar</string>
+    <string name="editar">Editar</string>
+
+    <!-- mierdo-->
+    <string name="categorias">Nombre</string>
+    <string name="nombreReceta">Nombre</string>
+    <string name="fotoReceta">Nombre</string>
+    <string name="ingredientes">Nombre</string>
+    <string name="añadir">Nombre</string>
+    <string name="tituloInstrucciones">Nombre</string>
+    <string name="arroces">Nombre</string>
+    <string name="verduras">Nombre</string>
+    <string name="sopas">Nombre</string>
+    <string name="action_settings">Nombre</string>
+    <string name="tituloIngredientes">Nombre</string>
+    <string name="postres">Nombre</string>
+    <string name="potajes">Nombre</string>
+    <string name="carne">Nombre</string>
+    <string name="salsas">Nombre</string>
+    <string name="pescados">Nombre</string>
+    <string name="guarniciones">Nombre</string>
+</resources>
